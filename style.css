@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+#quiz{
+    width: 100px;
+    background-color: violet;
+    text-decoration: white;
+}
+
+.a{
+    margin-left: 10px;
+    margin-right: 10px;
+}
